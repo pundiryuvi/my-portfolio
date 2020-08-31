@@ -1,0 +1,175 @@
+body {
+  font-family: "Montserrat";
+  text-align: center;
+}
+
+
+h2, h4 {
+  font-family: "Montserrat";
+  font-weight: bold;
+  margin-top: 2.5rem;
+  text-align: left;
+}
+h3 {
+  font-family: "Montserrat";
+  font-weight: bold;
+  margin-bottom: 2.5rem;
+  color: #fff;
+}
+
+h6 {
+  font-family: "Montserrat";
+  margin-top: 1.5rem;
+  color: #32e0c4;
+  text-align: left;
+}
+
+h5 {
+  font-family: "Montserrat";
+  font-weight: bold;
+  line-height: 1.5;
+  margin-top: 2.5rem;
+  color: #32e0c4;
+  margin-bottom: 1.5rem;
+}
+
+p {
+  font-family: "Montserrat";
+  line-height: 1.5rem;
+  color:  #8f8f8f;
+}
+
+#introduction {
+  background-color: #222831;
+  color: #fff;
+  padding: 3% 10% 3%;
+  font-family: "Montserrat";
+}
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+.nav-item {
+  padding: 0 15px;
+}
+.navbar {
+  padding: 0 0 3.5rem;
+}
+
+.profile-img {
+  width: 40%;
+  border-radius: 100%;
+  position: relative;
+  right: 25%;
+}
+
+.links {
+  text-align: right;
+}
+.icon {
+  margin-left: 1.5rem;
+}
+
+#skills {
+  background-color: #fff;
+  padding: 3% 10% 3%;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+.download-button {
+  margin: 7% 5% 7% 0;
+}
+
+#education {
+  background-color: #222831;
+  color: #fff;
+  padding: 3% 10% 3%;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+.cgpa {
+  text-align: right;
+}
+
+#certification {
+  background-color: #fff;
+  padding: 3% 10% 3%;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+.Certificate {
+  padding: 3rem 0;
+  text-align: center;
+}
+
+#Projects {
+  background-color: #222831;
+  color: #fff;
+  padding: 3% 10% 3%;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+.project {
+  text-align: center;
+  color: #32e0c4;
+}
+
+.carousel-item {
+  padding: 5% 10%;
+}
+
+#activities {
+  background-color: #fff;
+  padding: 3% 10% 3%;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+#hobby {
+  background-color: #222831;
+  color: #fff;
+  padding: 3% 10% 3%;
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+.interest {
+  padding: 3rem 0;
+}
+
+#language {
+  background-color: #fff;
+  padding: 3% 10% 3%;
+  font-family: "Montserrat";
+  font-weight: bold;
+  text-align: left;
+}
+
+.lang {
+  padding: 2.5rem 0;
+  color: #32e0c4;
+  font-family: "Montserrat";
+  font-size: 1.5rem;
+}
+
+#footer {
+  background-color: #222831;
+  padding: 2% 10% 1%;
+  text-align: center;
+}
+
+@media (max-width: 1028px) {
+  .tag-line {
+    text-align: center;
+    margin-bottom: 1.5rem;
+  }
+  .profile-img {
+    position: relative;
+    left: 1%;
+  }
+}
